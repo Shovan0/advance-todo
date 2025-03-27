@@ -18,10 +18,10 @@ This is an **advanced To-Do application** built with **React, Vite, and Material
 ## 🖼 Project Screenshots  
 
 📌 **Login Page:**  
-![Login UI](assets/logoutpage.jpg)  
+![Login UI](assets/logoutpage.png)  
 
 📌 **Task List with Weather Integration:**  
-![Task List](assets/taskpage.jpg)  
+![Task List](assets/taskpage.png)  
 
 *(Replace the image paths above with your actual uploaded images.)*
 
