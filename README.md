@@ -20,10 +20,10 @@ A modern **React-based** To-Do application with **local storage, authentication,
 ## **📸 Screenshots**  
 
 ### **🔐 Login Page**  
-![Login Page](src/assets/logoutpage.jpg)  
+![Login Page](src/assets/logoutpage.png)  
 
 ### **✅ Task Management Page**  
-![Task Page](src/assets/taskpage.jpg)  
+![Task Page](src/assets/taskpage.png)  
 
 ---
 
