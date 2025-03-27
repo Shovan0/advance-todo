@@ -9,7 +9,7 @@ const TaskInput = ({ addTask }) => {
     e.preventDefault();
     if (task.trim()) {
       addTask({ text: task, isOutdoor, completed: false });
-      setTask(""); // Clear input after adding
+      setTask(""); 
       setIsOutdoor(false);
     }
   };

@@ -1,13 +1,35 @@
-# React + Vite
+# ✅ Advanced React To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an **advanced To-Do application** built with **React, Vite, and Material UI**, featuring **local storage, authentication, weather API integration, and Redux for state management**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- ✅ **Add, Complete, and Delete Tasks**
+- 🔄 **Persistent Storage (Local Storage)**
+- 🔐 **Basic Login & Logout System**
+- 🌤 **Weather API Integration for Outdoor Tasks**
+- 🎨 **Modern & Responsive UI with Material UI**
+- 🏗 **State Management using Redux (Planned for Future)**
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# advance-todo" 
+---
+
+## 🖼 Project Screenshots  
+
+📌 **Login Page:**  
+![Login UI](assets/logoutpage.jpg)  
+
+📌 **Task List with Weather Integration:**  
+![Task List](assets/taskpage.jpg)  
+
+*(Replace the image paths above with your actual uploaded images.)*
+
+---
+
+## 🚀 Getting Started  
+
+### **1️⃣ Clone the Repository**  
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name

@@ -2,18 +2,19 @@ import { useState } from "react";
 import { useDispatch } from "react-redux";
 import { login } from "../redux/authSlice";
 import { useNavigate } from "react-router-dom";
+
 import "../styles/auth.css";
 
 const Login = () => {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const dispatch = useDispatch();
-  navigate = useNavigate();
+  const navigate = useNavigate();
 
   const handleLogin = () => {
     if (username.trim() && password.trim()) {
       dispatch(login(username));
-
+      navigate("/");
     }
   };
 

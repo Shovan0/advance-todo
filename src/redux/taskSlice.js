@@ -7,7 +7,7 @@ const taskSlice = createSlice({
   initialState,
   reducers: {
     addTask: (state, action) => {
-      state.push(action.payload); // ✅ Update state correctly
+      state.push(action.payload); 
       localStorage.setItem("tasks", JSON.stringify(state));
     },
     deleteTask: (state, action) => {
